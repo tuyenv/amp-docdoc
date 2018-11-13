@@ -1,0 +1,25 @@
+{
+  "name": "amp-docdoc",
+  "version": "1.0.0",
+  "description": "export invalid amp urls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuyenv/amp-docdoc.git"
+  },
+  "keywords": [
+    "amp"
+  ],
+  "author": "Tuyen Vuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuyenv/amp-docdoc/issues"
+  },
+  "homepage": "https://github.com/tuyenv/amp-docdoc#readme",
+  "dependencies": {
+    "amp-validator-webmaster": "^1.0.5"
+  }
+}
